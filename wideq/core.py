@@ -19,8 +19,8 @@ CLIENT_ID = 'LGAO221A02'
 OAUTH_SECRET_KEY = 'c053c2a6ddeb7ad97cb0eed0dcb31cf8'
 OAUTH_CLIENT_KEY = 'LGAO221A02'
 DATE_FORMAT = '%a, %d %b %Y %H:%M:%S +0000'
-DEFAULT_COUNTRY = 'US'
-DEFAULT_LANGUAGE = 'en-US'
+DEFAULT_COUNTRY = 'IT'
+DEFAULT_LANGUAGE = 'it-IT'
 
 
 def get_wideq_logger() -> logging.Logger:
